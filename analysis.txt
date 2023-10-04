@@ -1,0 +1,43 @@
+phase1: download
+1. ecommerce template download
+2. Admin dashbord template
+3. database: mongodb
+4. technologies: Node js, HTML, CSS, 
+Bootstrap, Javascript
+
+phase 2
+3. home page(general products)
+4. product_details page
+5. shopping cart
+6. help page
+7. payment page
+8. success page
+
+
+phase 3(admin)
+admin home page
+product page
+orders
+users
+category
+logistics companies
+
+phase 4
+integration of payment system
+ paystack, flutterwave, paypal
+
+phase 5
+help and customer support
+
+phase 6
+testing the apps
+
+
+database:
+users
+product
+shopping cart
+category
+orders
+
+
